@@ -1,0 +1,13 @@
+body{
+  background:darkred; 
+} 
+form label{ 
+  display: block; 
+  font-size: 25px;
+  color: white
+} f
+orm input{
+  display:block
+    background:white 
+    color:black font-weight:bold 
+} 
